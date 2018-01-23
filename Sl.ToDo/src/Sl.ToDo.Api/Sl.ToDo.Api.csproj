@@ -85,6 +85,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\TasksController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -101,8 +102,17 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
     <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\Sl.ToDo.Tasks.Services.csproj">
+      <Project>{B337DCE4-9263-46B2-B128-D492012F06AA}</Project>
+      <Name>Sl.ToDo.Tasks.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sl.ToDo.Tasks\Sl.ToDo.Tasks.ViewModels\Sl.ToDo.Tasks.ViewModels.csproj">
+      <Project>{E454ECF6-0083-465D-AB56-2F7A670B9FBE}</Project>
+      <Name>Sl.ToDo.Tasks.ViewModels</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

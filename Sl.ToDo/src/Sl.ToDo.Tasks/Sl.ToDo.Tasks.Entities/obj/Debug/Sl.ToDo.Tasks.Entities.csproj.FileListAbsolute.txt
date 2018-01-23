@@ -1,0 +1,5 @@
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Entities\bin\Debug\Sl.ToDo.Tasks.Entities.dll
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Entities\bin\Debug\Sl.ToDo.Tasks.Entities.pdb
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Entities\obj\Debug\Sl.ToDo.Tasks.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Entities\obj\Debug\Sl.ToDo.Tasks.Entities.dll
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Entities\obj\Debug\Sl.ToDo.Tasks.Entities.pdb

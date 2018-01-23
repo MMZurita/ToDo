@@ -40,3 +40,13 @@ C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\System.Web.Http.Web
 C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\obj\Debug\Sl.ToDo.Api.csprojResolveAssemblyReference.cache
 C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\obj\Debug\Sl.ToDo.Api.dll
 C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\obj\Debug\Sl.ToDo.Api.pdb
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\Sl.ToDo.Tasks.Services.dll
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\Sl.ToDo.Tasks.ViewModels.dll
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\Sl.ToDo.Tasks.Data.dll
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\Sl.ToDo.Tasks.Entities.dll
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\EntityFramework.dll
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\Sl.ToDo.Tasks.Services.pdb
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\Sl.ToDo.Tasks.ViewModels.pdb
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\Sl.ToDo.Tasks.Data.pdb
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\Sl.ToDo.Tasks.Entities.pdb
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\EntityFramework.xml

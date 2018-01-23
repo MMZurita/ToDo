@@ -1,0 +1,13 @@
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\bin\Debug\Sl.ToDo.Tasks.Services.dll
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\bin\Debug\Sl.ToDo.Tasks.Services.pdb
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\obj\Debug\Sl.ToDo.Tasks.Services.csprojResolveAssemblyReference.cache
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\obj\Debug\Sl.ToDo.Tasks.Services.dll
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\obj\Debug\Sl.ToDo.Tasks.Services.pdb
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\bin\Debug\Sl.ToDo.Tasks.Data.dll
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\bin\Debug\Sl.ToDo.Tasks.Entities.dll
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\bin\Debug\Sl.ToDo.Tasks.ViewModels.dll
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\bin\Debug\EntityFramework.dll
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\bin\Debug\Sl.ToDo.Tasks.Data.pdb
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\bin\Debug\Sl.ToDo.Tasks.Entities.pdb
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\bin\Debug\Sl.ToDo.Tasks.ViewModels.pdb
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\bin\Debug\EntityFramework.xml
