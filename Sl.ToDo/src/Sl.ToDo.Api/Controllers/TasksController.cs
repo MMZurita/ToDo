@@ -12,10 +12,10 @@ namespace Sl.ToDo.Api.Controllers
     public class TasksController : ApiController
     {
 		private readonly TaskService _service;
-
-		public TasksController(TaskService service)
+		
+		public TasksController()
 		{
-			_service = service;
+			_service = TaskService.Create();
 		}
 
 		public IHttpActionResult Get()

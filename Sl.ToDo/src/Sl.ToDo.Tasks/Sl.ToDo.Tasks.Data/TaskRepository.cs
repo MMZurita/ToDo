@@ -14,9 +14,9 @@ namespace Sl.ToDo.Tasks.Data
 	{
 		private readonly TasksContext _context;
 
-		public TaskRepository(TasksContext context)
+		public TaskRepository()
 		{
-			_context = context;
+			_context = TasksContext.Create();
 		}
 
 		public List<TaskVM> GetAllTasks()
@@ -84,6 +84,11 @@ namespace Sl.ToDo.Tasks.Data
 			var vm = FindTaskVMById(id);
 
 			return vm;
+		}
+
+		public static TaskRepository Create()
+		{
+			return new TaskRepository();
 		}
 	}
 }

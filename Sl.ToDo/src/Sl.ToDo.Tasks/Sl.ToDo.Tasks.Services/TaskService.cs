@@ -10,9 +10,9 @@ namespace Sl.ToDo.Tasks.Services
 	{
 		private readonly TaskRepository _repo;
 
-		public TaskService(TaskRepository repo)
+		public TaskService()
 		{
-			_repo = repo;
+			_repo = TaskRepository.Create();
 		}
 
 		public List<TaskVM> GetAllTasks()
@@ -32,6 +32,11 @@ namespace Sl.ToDo.Tasks.Services
 		{
 			Enum.TryParse(statusName, out TaskStatus status);
 			return _repo.UpdateTask(id, name, description, status, fileId);
+		}
+
+		public static TaskService Create()
+		{
+			return new TaskService();
 		}
 	}
 }

@@ -50,3 +50,5 @@ C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\Sl.ToDo.Tasks.ViewM
 C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\Sl.ToDo.Tasks.Data.pdb
 C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\Sl.ToDo.Tasks.Entities.pdb
 C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\EntityFramework.xml
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Api\bin\EntityFramework.SqlServer.xml

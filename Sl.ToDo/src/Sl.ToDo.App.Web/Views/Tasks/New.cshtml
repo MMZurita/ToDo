@@ -1,0 +1,24 @@
+﻿@model Sl.ToDo.Tasks.ViewModels.TaskVM
+
+@{
+	ViewBag.Title = "New Task";
+}
+
+<h2>New Task</h2>
+
+@Html.AntiForgeryToken()
+
+@using (Html.BeginForm("CreateNew", "Tasks", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+	<div class="input-group mb-3">
+		@Html.TextBoxFor(t => t.Name, new {@class = "form-control", placeholder = "Name"})
+	</div>
+	<div class="input-group mb-3">
+		@Html.TextAreaFor(t => t.Description, new {@class = "form-control", placeholder= "Task description"})
+	</div>
+	<div class="input-group mb-3">
+		<input name="file" type="file" class="form-control"/>
+	</div>
+
+	<input type="submit" name="Submit" id="Submit" value="CreateNew" class="btn btn-primary"/>
+}

@@ -1,13 +1,20 @@
-﻿
+﻿@using System.Web.Optimization
 <!DOCTYPE html>
 
 <html>
 <head>
-    <meta name="viewport" content="width=device-width" />
-    <title>@ViewBag.Title</title>
+	<meta name="viewport" content="width=device-width"/>
+	<title>@ViewBag.Title</title>
+	@Styles.Render("~/bundle/css")
 </head>
 <body>
-@RenderBody()
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	<a class="navbar-brand" href="#">ToDo App</a>
+</nav>
+	<div class="container" style="padding-top: 10px">
+		@RenderBody()
+	</div>
 @RenderSection("scripts", false)
+@Scripts.Render("~/bundle/vendors")
 </body>
 </html>

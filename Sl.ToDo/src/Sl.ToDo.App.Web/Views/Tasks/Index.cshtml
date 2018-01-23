@@ -1,7 +1,19 @@
-﻿@model dynamic
+﻿@model List<Sl.ToDo.Tasks.ViewModels.TaskVM>
 
 @{
 	ViewBag.Title = "Tasks";
 }
 
-<h2>Tasks</h2>
+<div class="card col-md-8">
+	<div class="card-body">
+		<p class="card-title">Tasks</p>
+		<ul class="list-group">
+			@foreach (var task in Model)
+			{
+				<li class="list-group-item">@task.Name</li>
+			}
+		</ul>
+		<hr/>
+		@Html.ActionLink("New Task", "New", null, new {@class = "btn btn-primary"})
+	</div>
+</div>

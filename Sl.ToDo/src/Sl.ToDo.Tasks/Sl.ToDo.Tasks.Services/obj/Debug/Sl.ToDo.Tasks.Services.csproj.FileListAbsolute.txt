@@ -11,3 +11,5 @@ C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Service
 C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\bin\Debug\Sl.ToDo.Tasks.Entities.pdb
 C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\bin\Debug\Sl.ToDo.Tasks.ViewModels.pdb
 C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\bin\Debug\EntityFramework.xml
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ramsak\Desktop\Softland\Sl.ToDo\src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\bin\Debug\EntityFramework.SqlServer.xml
