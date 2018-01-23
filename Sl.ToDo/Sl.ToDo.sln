@@ -17,6 +17,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sl.ToDo.Tasks.ViewModels", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sl.ToDo.Tasks.Services", "src\Sl.ToDo.Tasks\Sl.ToDo.Tasks.Services\Sl.ToDo.Tasks.Services.csproj", "{B337DCE4-9263-46B2-B128-D492012F06AA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sl.ToDo.Users", "Sl.ToDo.Users", "{D53774EA-2392-4781-A1FD-141F246509F6}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
